@@ -3,7 +3,7 @@
 """
 Created on Fri Nov 24 20:55:45 2017
 
-@author: leyang24kobe
+@author: JadenLy
 """
 
 from sklearn.datasets import fetch_20newsgroups
