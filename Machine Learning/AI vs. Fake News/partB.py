@@ -3,7 +3,7 @@
 """
 Created on Wed Nov 29 21:12:15 2017
 
-@author: leyang24kobe
+@author: JadenLy
 """
 
 import pandas as pd
@@ -77,29 +77,5 @@ print("confusion matrix:")
 print(metrics.confusion_matrix(val_y,pred_rf))
 print("accuracy score")
 print(metrics.accuracy_score(val_y, pred_rf))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
