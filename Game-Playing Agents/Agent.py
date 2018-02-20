@@ -1,6 +1,4 @@
-# Yang Le yangl23
-# CSE 415
-# Assignment 5
+
 
 # This is a game agent for K-in-a-row, which is won by achieving k consecutive
 # same elements in a row, a column or a diagonal. 
