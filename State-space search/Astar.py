@@ -1,6 +1,4 @@
-# Yang Le   yangl23
-# CSE 415 Assignment 3
-# Astar.py, Oct 2017 
+
 # Based on ItrDFS.py, Ver 0.4a, October 14, 2017.
 
 # A* Search of a problem space.
@@ -50,7 +48,6 @@ def runAStar():
     return path, name
 
 # A star search algorithm
-# TODO: finish A star implementation
 def AStar(initial_state):
     global COUNT, BACKLINKS
     # TODO: initialze and put first state into 
