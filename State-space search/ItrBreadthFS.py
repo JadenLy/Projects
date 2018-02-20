@@ -1,6 +1,4 @@
-# Yang Le   yangl23
-# CSE 415 Assignment 3
-# ItrBreadthFS.py, Oct 2017 
+
 # Based on ItrDFS.py, Ver 0.4, Oct, 2017.
 
 # Iterative Breadth-First Search of a problem space.
