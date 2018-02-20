@@ -59,7 +59,6 @@ def IterativeBFS(initial_state):
 
         # DO NOT CHANGE THE CODE ABOVE 
         
-        # TODO: finish BFS implementation
         COUNT += 1
         other = []
         for op in Problem.OPERATORS:
