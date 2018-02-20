@@ -1,5 +1,4 @@
-# Yang Le   yangl23
-# CSE 415 Assignment 3
+
 
 '''
 A QUIET2 Solving Tool problem formulation.
